@@ -1,5 +1,5 @@
 This repository contains a comprehensive machine learning project aimed at predicting audience ratings for movies using data from Rotten Tomatoes. The project explores multiple regression models, including Linear Regression, Random Forest, XGBoost, CatBoost, and a hyperparameter-tuned Stacking Regressor. It also features a neural network model for improved performance. The project includes robust data preprocessing, feature engineering, hyperparameter tuning, and cross-validation to ensure accuracy. The code is well-documented and structured for reproducibility.
-# Audience Rating Prediction: A Comprehensive Machine Learning Project
+# Audience Rating Prediction: A Pipelined Machine Learning Project
 
 This repository contains an end-to-end machine learning project focused on predicting audience ratings for movies using data from Rotten Tomatoes. The project involves robust preprocessing, feature engineering, and implementation of various machine learning models, including:
 
